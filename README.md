@@ -9,7 +9,7 @@
 
 ### 💡 Mostly Used Language
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 
 
 ### 💡 Front-end
@@ -20,7 +20,7 @@
 
 ### 💡 Back-end
 
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-007396?style=flat-square&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   
 
 
 ### 💡 DataBase
