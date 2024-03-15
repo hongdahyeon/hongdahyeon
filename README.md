@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 💻 My Algorithm Level
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0427)](https://solved.ac/julie0427/)
 
 
