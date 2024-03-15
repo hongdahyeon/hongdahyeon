@@ -20,7 +20,7 @@
 
 ### 💡 Back-end
 
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   
 
 
 ### 💡 DataBase
@@ -53,3 +53,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdahyeon&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdahyeon)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
