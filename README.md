@@ -6,9 +6,10 @@
 
 ## 🙋‍♀️ About me
 ---
+[![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/julie0427)](https://blog.naver.com/julie0427)
 
-<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white">
 
+<br/>
 
 ## 🛠️ Sills & Stacks
 ---
