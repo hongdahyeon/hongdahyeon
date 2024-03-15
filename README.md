@@ -7,7 +7,7 @@
 ## 🙋‍♀️ About me
 ---
 
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white">
 
 
 ## 🛠️ Sills & Stacks
