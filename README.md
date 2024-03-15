@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0427)](https://solved.ac/julie0427/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdahyeon&theme=dark&show_icons=true)
 
