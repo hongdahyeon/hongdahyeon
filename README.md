@@ -20,7 +20,7 @@
 
 ### 💡 Back-end
 
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=lit&logoColor=white">
 
 
 ### 💡 DataBase
