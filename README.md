@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🛠️ Sills & Stacks
+## 🛠️ Skills & Stacks
 ---
 
 ### Mostly Used Language
