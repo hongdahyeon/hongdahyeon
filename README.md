@@ -1,74 +1,35 @@
- 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=hongdahyeon's%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Hong%20Dahyun&descAlignY=55&descAlign=62"/>
 </p>
 
-
-
-## 🙋‍♀️ About me
----
-[![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/julie0427)](https://blog.naver.com/julie0427)
-
+## 🙋‍♀️ About Me
+[![Blog Badge](https://img.shields.io/badge/Blog-Visit%20My%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/julie0427)
 
 <br/>
 
-## 🛠️ Skills & Stacks
+## 🛠️ Tech Stack
 ---
 
-### Mostly Used Language
+### ☕️ Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+### 💾 Database & Infrastructure
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Front-end
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-
-### Back-end
-
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/jsp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=lit&logoColor=white">
-
-
-### DataBase
-
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+### ⚙️ Tools & IDE
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
 
 <br/>
 
-## 💪🏼 Tools 
+## 💻 Algorithm Status
 ---
-
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Mobaxterm-20232a.svg?style=for-the-badge&logo=mobaxterm&logoColor=61DAFB"/>
-
-<br/>
-
-## 💻 My Algorithm Level
----
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0427)](https://solved.ac/julie0427/)
 
-
+<br/>
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn"/>
 </p>
-
-
-<!--
- 
-**hongdahyeon/hongdahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdahyeon&theme=dark&show_icons=true)
--->
