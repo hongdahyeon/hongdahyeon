@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=333333&center=true&vCenter=true&width=500&height=100&lines=Hello!;Hong+DaHyun's+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=333333&center=true&vCenter=true&width=600&height=100&lines=System.out.println(%22Hello!%22);%0ASystem.out.println(%22Hong+DaHyun's+GitHub%22);" alt="Typing SVG" />
 </p>
 
 ## 🙋‍♀️ About Me
