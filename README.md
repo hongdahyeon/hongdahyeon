@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=333333&center=true&vCenter=true&width=500&height=100&lines=Hello!;Hong+DaHyun's+GitHub" alt="Typing SVG" />
+</p>
 
 ## 🙋‍♀️ About Me
 [![Blog Badge](https://img.shields.io/badge/Blog-Visit%20My%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/julie0427)
@@ -29,6 +31,6 @@
 
 <br/>
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
