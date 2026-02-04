@@ -1,6 +1,4 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Hong%20Dahyun&descAlignY=55&descAlign=62"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## 🙋‍♀️ About Me
 [![Blog Badge](https://img.shields.io/badge/Blog-Visit%20My%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/julie0427)
