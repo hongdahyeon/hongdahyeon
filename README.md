@@ -27,7 +27,7 @@
 
 ## 💻 Algorithm Status
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0427)](https://solved.ac/julie0427/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0427)](https://solved.ac/julie0427)
 
 <br/>
 
